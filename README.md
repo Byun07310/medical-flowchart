@@ -3,8 +3,8 @@
 ## Overview
 This repository contains:
 - **`ground_truth/`**: A folder containing two subfolders:
-  - **`flowchart/`**: Contains medical flowcharts in image format (e.g., `8030 HEAD TRAUMA.jpg`).
-  - **`python_code/`**: Contains corresponding Python code files (e.g., `  - **`flowchart/`**: Contains medical flowcharts in image format (e.g., `8030 HEAD TRAUMA.jpg`)..py`).
+  - **`flowchart/`**: Contains medical flowcharts in image format
+  - **`python_code/`**: Contains corresponding Python code files
 
 Each flowchart file in `flowchart/` has a corresponding Python script with the same filename in `python_code/`.
 
@@ -12,8 +12,8 @@ Each flowchart file in `flowchart/` has a corresponding Python script with the s
 
 ## Folder Structure
 - `ground_truth/`
-  - `flowchart/` (e.g., `  - **`flowchart/`**: Contains medical flowcharts in image format (e.g., `8030 HEAD TRAUMA.jpg`).0.jpg`)
-  - `python_code/` (e.g., `  - **`flowchart/`**: Contains medical flowcharts in image format (e.g., `8030 HEAD TRAUMA.jpg`)..py`)
+  - `flowchart/`
+  - `python_code/`
 
 ---
 
